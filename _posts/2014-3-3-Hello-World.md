@@ -3,7 +3,37 @@ layout: post
 title: My english class Ana Catalina Hernandez
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+vocabulary of the day
+
+Age
+Male
+Female
+Meet
+Spell
+
+
+
+Name.
+Age.
+Where are you from.
+
+
+
+Name
+Age
+Where do you know them from?
+
+
+Name
+Age
+Where do you know them from?
+
+
+
+Videos
+
+
+
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
