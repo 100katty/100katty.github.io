@@ -28,22 +28,26 @@ Spell
 
 2.Introduction of yourself
 
-Name.My name is Ana Catalina Hernandez 
-Age. I'm 24 years old
-Where are you from. I'm from to San luis Potosi 
+My name is Ana Catalina Hernandez 
+I'm 24 years old
+I'm from to San luis Potosi 
+I have a dog , the name of my dog is pancho
 
 
 
 3.
+My sister 
+Her name is Elizabeth 
+She is 22 years old 
+She is from to San luis Potosi
+she is a nurce and she live in Guadalajara
 
-Name: Her name is Elizabeth 
-Age: She is 22 years old 
-Where do you know them from?: She is from Guadalajara 
 
-
-Name His name is Antonio
-Age He is 17 years old 
-Where do you know them from? He is from San Luis Potosi
+Brother
+His name is Antonio
+He is 17 years old 
+He is from San Luis Potosi
+He is a student and He love playing soccer
 
 
 
