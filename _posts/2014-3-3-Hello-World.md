@@ -7,7 +7,7 @@ vocabulary of the day
 
 Age
 [code lang=text]
-![un gatito]({{ site.baseurl }}/images/age.jpg)
+![un gatito]({{ site.baseurl }}/images/age.png)
 [/code]
 Male
 [code lang=text]
