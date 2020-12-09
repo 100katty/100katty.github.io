@@ -55,8 +55,7 @@ He is a student and He love playing soccer
 
 4.Videos
 <audio src="/images/Voz001.m4a">
-<p>Tu navegador no implementa el elemento audio.</p>
-</audio>
+![attached audio](Voz001.m4a)
 
 5.Sentences
 
