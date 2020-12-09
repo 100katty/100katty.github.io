@@ -26,7 +26,7 @@ It is importan spell well your name
 ![un gatito]({{ site.baseurl }}/images/spell.jpg)
 
 
-2.Introduction of myself
+2.Introduce of myself
 
 My name is Ana Catalina Hernandez 
 I'm 24 years old
@@ -44,7 +44,7 @@ she is a nurce and she live in Guadalajara
 
 
 4.Introduce my Brother
-His nameis Antonio
+His name is Antonio
 He is 17 years old 
 He is from San Luis Potosi
 He is a student and He love playing soccer
@@ -53,7 +53,7 @@ He is a student and He love playing soccer
 
 
 
-4.Videos
+4.Audio
 
 <audio controls="controls">
   <source type="audio/ogg" src="t_voice5080411639279255772.ogg"></source>
