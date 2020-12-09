@@ -31,7 +31,7 @@ It is importan spell well your name
 My name is Ana Catalina Hernandez 
 I'm 24 years old
 I'm from to San luis Potosi 
-I have a dog , the name of my dog is pancho
+I have a dog , the name of my dog is pancho.
 
 
 
@@ -49,7 +49,7 @@ she is a nurce and she live in Guadalajara
 
 His name is Antonio
 He is 17 years old 
-He is from San Luis Potosi
+He is from to San Luis Potosi
 He is a student and He love playing soccer
 
 
