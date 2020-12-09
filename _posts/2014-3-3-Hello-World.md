@@ -6,10 +6,25 @@ title: My english class Ana Catalina Hernandez
 vocabulary of the day
 
 Age
+[code lang=text]
+![un gatito]({{ site.baseurl }}/images/age.jpg)
+[/code]
 Male
+[code lang=text]
+![un gatito]({{ site.baseurl }}/images/male.jpg)
+[/code]
 Female
+[code lang=text]
+![un gatito]({{ site.baseurl }}/images/female.jpg)
+[/code]
 Meet
+[code lang=text]
+![un gatito]({{ site.baseurl }}/images/meet.jpg)
+[/code]
 Spell
+[code lang=text]
+![un gatito]({{ site.baseurl }}/images/spell.jpg)
+[/code]
 
 
 
