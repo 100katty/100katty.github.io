@@ -5,15 +5,15 @@ title: My english class Ana Catalina Hernandez
 
 1.vocabulary of the day
 
-Age
+Age:
 Every year increase the age 
 ![un gatito]({{ site.baseurl }}/images/age.png)
 
-Male
+Male:
 The man is male
 ![un gatito]({{ site.baseurl }}/images/male.jpg)
 
-Female
+Female:
 The woman is female
 ![un gatito]({{ site.baseurl }}/images/female.jpg)
 
@@ -21,7 +21,7 @@ Meet
 I like to meet a new persons 
 ![un gatito]({{ site.baseurl }}/images/meet.jpg)
 
-Spell
+Spell:
 It is importan spell well your name
 ![un gatito]({{ site.baseurl }}/images/spell.jpg)
 
@@ -35,8 +35,7 @@ I have a dog , the name of my dog is pancho
 
 
 
-3.
-Introduce my sister
+3.Introduce my sister
 Her name is Elizabeth 
 She is 22 years old 
 She is from to San luis Potosi
@@ -55,7 +54,9 @@ He is a student and He love playing soccer
 
 
 4.Videos
-
+<audio src="/images/Voz001.m4a">
+<p>Tu navegador no implementa el elemento audio.</p>
+</audio>
 
 5.Sentences
 
