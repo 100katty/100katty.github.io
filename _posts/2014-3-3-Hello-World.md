@@ -60,6 +60,10 @@ He is a student and He love playing soccer
   <p>Your browser does not support the audio element.</p>
 </audio>
 
+<audio src="t_voice5080411639279255772.ogg"
+       autoplay>
+  Your browser does not support the <code>audio</code> element.
+</audio>
 5.Sentences
 
 programer
