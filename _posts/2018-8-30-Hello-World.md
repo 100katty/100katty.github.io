@@ -80,6 +80,6 @@ skill
 attitud
 anybody
 
-
+666666666....
 
 
