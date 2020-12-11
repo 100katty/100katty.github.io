@@ -10,7 +10,7 @@ My sister Elizabeh
 Elizabeth lives in Guadalajara, She is  a nurse , She loves his work , She works in a Hospital.
 She is my yonger sister , she is 22 years old .She sometime reads book about medecine and she always is learning about 
 health.
-I miss you so much my sister.
+I miss she so much my sister.
 I haven't seen she for a long time.
 
 
