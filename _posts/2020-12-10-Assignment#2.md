@@ -2,7 +2,7 @@
 layout: post
 title: My english class Ana Catalina Hernandez
 date: 2020-12-12
-categories: Assignment # 2.
+categories: Assignment2.
 ---
 
 My sister Elizabeh
