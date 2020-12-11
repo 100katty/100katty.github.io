@@ -5,30 +5,6 @@ date: 2020-12-12
 categories: Assignment # 2.
 ---
 
-1.vocabulary of the day
+My sister Elizabeh
 
-Age:
-Every year increase the age 
-![un gatito]({{ site.baseurl }}/images/age.png)
-
-Male:
-The man is male
-![un gatito]({{ site.baseurl }}/images/male.jpg)
-
-Female:
-The woman is female
-![un gatito]({{ site.baseurl }}/images/female.jpg)
-
-Meet:
-I like to meet a new person
-![un gatito]({{ site.baseurl }}/images/meet.jpg)
-
-Spell:
-It is importan spell well your name
-![un gatito]({{ site.baseurl }}/images/spell.jpg)
-
-
-2.Introduce of myself
-
-My name is Ana Catalina Hernandez 
-I'm 24 years old
+Elizabeth lives in Guadalajara 
